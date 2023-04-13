@@ -17,7 +17,7 @@ using umap = unordered_map<ll, ll>;
 #define pb push_back
 #define endl "\n"
 #define precise fixed << setprecision(15)
-#define INF 1LL<<60
+#define INF 1LL << 60
 
 int main() {
 }
